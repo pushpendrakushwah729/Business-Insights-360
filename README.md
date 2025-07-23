@@ -166,3 +166,4 @@ Fact table : It will have the data about the transactions
 
 ## Finance View
 
+![Finance.gif]
