@@ -1,5 +1,9 @@
 # Business Insights 360
 
+## Overall Report
+
+[live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjU5NGQ4YzAtMzEwZi00MGYyLTljMTItNDQ3MTVkM2FkZWJlIiwidCI6IjcxNDQ4NzVkLTE1MDEtNDBkMS1iOWFkLTNhOTJhNTI0Yzc2ZiJ9)
+
 ## Project Overview
 
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
@@ -160,10 +164,27 @@ Fact table : It will have the data about the transactions
   - Supply chain View
   - Executive View
 
-## Overall Report
-
-[Overall Report](https://app.powerbi.com/view?r=eyJrIjoiZjU5NGQ4YzAtMzEwZi00MGYyLTljMTItNDQ3MTVkM2FkZWJlIiwidCI6IjcxNDQ4NzVkLTE1MDEtNDBkMS1iOWFkLTNhOTJhNTI0Yzc2ZiJ9)
 
 ## Finance View
 
-![Finance.gif]
+![Finance.gif](https://github.com/pushpendrakushwah729/Business-Insights-360/blob/main/Resources/finance.png)
+
+## Sales View
+
+![Sales.gif](https://github.com/pushpendrakushwah729/Business-Insights-360/blob/main/Resources/sales.png)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/pushpendrakushwah729/Business-Insights-360/blob/main/Resources/marketing.png)
+
+## Supply Chain View
+
+![Supply Chain.gif](https://github.com/pushpendrakushwah729/Business-Insights-360/blob/main/Resources/supply%20chain.png)
+
+## Executive View
+
+![Executive.gif](https://github.com/pushpendrakushwah729/Business-Insights-360/blob/main/Resources/executive.png)
+
+## Project Outcome
+
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
