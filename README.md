@@ -162,7 +162,7 @@ Fact table : It will have the data about the transactions
 
 ## Overall Report
 
-![Overall Report.gif](https://app.powerbi.com/view?r=eyJrIjoiZjU5NGQ4YzAtMzEwZi00MGYyLTljMTItNDQ3MTVkM2FkZWJlIiwidCI6IjcxNDQ4NzVkLTE1MDEtNDBkMS1iOWFkLTNhOTJhNTI0Yzc2ZiJ9)
+[Overall Report](https://app.powerbi.com/view?r=eyJrIjoiZjU5NGQ4YzAtMzEwZi00MGYyLTljMTItNDQ3MTVkM2FkZWJlIiwidCI6IjcxNDQ4NzVkLTE1MDEtNDBkMS1iOWFkLTNhOTJhNTI0Yzc2ZiJ9)
 
 ## Finance View
 
